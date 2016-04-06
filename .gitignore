@@ -1,0 +1,5 @@
+out
+*.swf
+*.swc
+*.tmp
+.idea/workspace.xml
