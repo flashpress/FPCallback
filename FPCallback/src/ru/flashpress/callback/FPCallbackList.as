@@ -48,6 +48,14 @@ package ru.flashpress.callback
 			//
 			this._count = this._list.length;
 		}
+        fpCallbackNS function deleteAll():void
+        {
+            this._list.length = 0;
+            this._priorities = new Dictionary();
+            this._count = 0;
+            this._listDeleted.length = 0;
+        }
+
 		fpCallbackNS function applyListDeleted():void
 		{
 			var i:int;

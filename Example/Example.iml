@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="Example">
     <configurations>
-      <configuration name="Example" pure-as="true" main-class="Example2" output-file="Main.swf" output-folder="$MODULE_DIR$/../out/example">
+      <configuration name="Example" pure-as="true" main-class="test.Test1" output-file="Main.swf" output-folder="$MODULE_DIR$/../out/example">
         <dependencies target-player="21.0">
           <entries>
             <entry module-name="FPCallback" build-configuration-name="FPCallback">

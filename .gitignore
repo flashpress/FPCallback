@@ -3,3 +3,4 @@ out
 *.swc
 *.tmp
 .idea/workspace.xml
+Example/src/test
